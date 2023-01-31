@@ -1,0 +1,15 @@
+
+ Un projet d'application e-learning  basé sur la technologie Java , la technologie RMI 
+   
+   pour démarrer l'application il faut procéder comme suit:
+1-run classe Server.
+2-run classe LoginView . 
+
+après cette démarche vous aurez le choix entre deux :
+ 1- l'authentification : il suffit d'entrer un username et un password d'après la base de données.
+ 2-l'enregistrement : il faut entrer tous les champs demander pour créer un utilisateur dans la base de données.
+ -en cas de validation d'enregistrement vous devez s'authentifier avant d'utiliser l'application .
+ 
+ après l'authentification : vous aurez accés
+ - soit à l'interface d'un professeur 
+ - soit à l'interface d'un client 
